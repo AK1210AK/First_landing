@@ -3,5 +3,5 @@
 ***Это мой первый проект-одностраничник  , за основу  был взят  <http://rhythm.bestlooker.pro/> ,макет которого предоставила it школа EasyCode.***
 -----------------------------------
 ##### Данная работа была создана с помощью Visual Studio Code, Adobe Photoshop CC 2019. #####
-##### В проекте использовались плагины: slick,slick_nav,Hamburger Icon Menu Lite,jqueryui.tabs.Щрифты были взяты из Googlefonts.##### 
+##### В проекте использовались плагины: slick,slick_nav,Hamburger Icon Menu Lite,jqueryui.tabs.Шрифты были взяты из Googlefonts.##### 
 `Для того что бы просмотреть данный проет вам необходимо скоприровать данный репозиторий нажав на кнопку Clone or download,после чего сохранить архив на ваш ПК,после загрузки открыть файл index.html.`
